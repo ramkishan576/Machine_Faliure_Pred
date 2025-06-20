@@ -38,7 +38,7 @@ Machine failure predication/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Create and activate virtual environment
 
